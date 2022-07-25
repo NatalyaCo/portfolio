@@ -4,6 +4,7 @@ import Nav from './components/nav/Nav'
 import Mystory from './components/mystory/Mystory'
 import Skills from './components/skills/Skills'
 import Contact from './components/contact/Contact'
+import Footer from './components/footer/Footer'
 
 
 
@@ -12,16 +13,12 @@ export const App = () => {
     <>
     
     <Header />
-
     <Nav />
-  
     <Mystory />
-
     <Portfolio />
-
     <Skills />
-
     <Contact /> 
+    <Footer />
     
     </>
   )
