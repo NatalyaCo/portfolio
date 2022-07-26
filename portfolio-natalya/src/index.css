@@ -38,7 +38,7 @@
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/wood.jpg);
+  background-image: url(../src/assets/rainbowhair.jpg);
  }
 
  .container {
@@ -104,7 +104,7 @@ a:hover {
 
 .btn-primary {
   display: block;
-  width: 100%;
+  width: max-content;
   object-fit: cover;
 }
 
