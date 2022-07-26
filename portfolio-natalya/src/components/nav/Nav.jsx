@@ -3,7 +3,7 @@ import "./nav.css"
 
 const Nav = () => {
   return (
-    <div>Hello, cna you see me?</div>
+    <div>Take You there</div>
   )
 }
 
